@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HotspotDetector\HotspotDetector.csproj" />
+      <ProjectReference Include="..\OnboardDiagnostics\OnboardDiagnostics.csproj" />
+      <ProjectReference Include="..\SpatialNetwork\SpatialNetwork.csproj" />
+    </ItemGroup>
+
+</Project>

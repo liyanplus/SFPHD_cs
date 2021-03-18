@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFPHD", "SFPHD\SFPHD.csproj", "{3872F05D-12DF-479C-A6A6-52C01D3A2781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpatialNetwork", "SpatialNetwork\SpatialNetwork.csproj", "{3B2180EE-8F9C-4EE7-B3FF-F416726BFE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnboardDiagnostics", "OnboardDiagnostics\OnboardDiagnostics.csproj", "{43455A61-A7FA-4CFE-8C4E-439BA915B1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotspotDetector", "HotspotDetector\HotspotDetector.csproj", "{DE0BECB1-1711-45E3-8B94-00C9902EC5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFPHotspotDetector", "SFPHotspotDetector\SFPHotspotDetector.csproj", "{85F9EB52-1725-492B-A8EA-26E16305FF2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPHotspotDetector", "SPHotspotDetector\SPHotspotDetector.csproj", "{F36915D4-7C04-42DF-8B13-12560909A817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSCANDetector", "DBSCANDetector\DBSCANDetector.csproj", "{ECE42E24-0119-41F3-B840-4DDE060EE0A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3872F05D-12DF-479C-A6A6-52C01D3A2781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3872F05D-12DF-479C-A6A6-52C01D3A2781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3872F05D-12DF-479C-A6A6-52C01D3A2781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3872F05D-12DF-479C-A6A6-52C01D3A2781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2180EE-8F9C-4EE7-B3FF-F416726BFE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2180EE-8F9C-4EE7-B3FF-F416726BFE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2180EE-8F9C-4EE7-B3FF-F416726BFE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2180EE-8F9C-4EE7-B3FF-F416726BFE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43455A61-A7FA-4CFE-8C4E-439BA915B1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43455A61-A7FA-4CFE-8C4E-439BA915B1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43455A61-A7FA-4CFE-8C4E-439BA915B1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43455A61-A7FA-4CFE-8C4E-439BA915B1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0BECB1-1711-45E3-8B94-00C9902EC5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0BECB1-1711-45E3-8B94-00C9902EC5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0BECB1-1711-45E3-8B94-00C9902EC5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0BECB1-1711-45E3-8B94-00C9902EC5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F9EB52-1725-492B-A8EA-26E16305FF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F9EB52-1725-492B-A8EA-26E16305FF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F9EB52-1725-492B-A8EA-26E16305FF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F9EB52-1725-492B-A8EA-26E16305FF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36915D4-7C04-42DF-8B13-12560909A817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36915D4-7C04-42DF-8B13-12560909A817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36915D4-7C04-42DF-8B13-12560909A817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36915D4-7C04-42DF-8B13-12560909A817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE42E24-0119-41F3-B840-4DDE060EE0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE42E24-0119-41F3-B840-4DDE060EE0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE42E24-0119-41F3-B840-4DDE060EE0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE42E24-0119-41F3-B840-4DDE060EE0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
